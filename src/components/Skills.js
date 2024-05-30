@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faVuejs, faLaravel, faNode, faPhp, faPython} from '@fortawesome/free-brands-svg-icons';
+import { faReact, faHtml5, faCss3, faNode, faPhp, faPython} from '@fortawesome/free-brands-svg-icons';
 import CustomHook from './CustomHook';
 
 function Skills() {
